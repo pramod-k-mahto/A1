@@ -1,0 +1,26 @@
+.child {
+  border: 2px solid black;
+  height: 100px;
+  width: 100px;
+  /* transition-duration: ; */
+  /* transition-property: ; */
+  /* transition-timing-function: ; */
+  /* transition-delay: ; */
+  transition-property:all ;
+  transition-duration: 1s;
+  /* transition-delay: 2s; */
+
+  transition-timing-function: ease-in -out;
+
+}
+
+.child:hover{
+    transform: translateX(400px)
+
+     
+}
+.parent {
+  border: 2px solid black;
+  padding: 10px;
+  
+}

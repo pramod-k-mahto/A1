@@ -1,0 +1,37 @@
+.parent {
+  border: 2px solid black;
+  padding: 5px;
+}
+     
+.child {
+  border: 2px solid black;
+  height: 100px;
+  width: 100px;
+  overflow: auto;
+
+}
+/* 
+@media (min-width: 375px) {
+  .child {
+    background-color: red;
+    height: 400px;
+    width: 350px;
+  }
+} */
+
+/* @media (max-width: 700px) {
+.child {
+    background-color: red;
+    height: 400px;
+    width: 350px;
+  }
+
+} */
+
+@media (max-width:500px) and (min-width:100px) {
+.child {
+    background-color: red;
+    height: 400px;
+    width: 350px;  
+  }     
+}

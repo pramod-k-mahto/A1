@@ -1,0 +1,32 @@
+.parent {
+  border: 2px solid black;
+}
+
+.box {
+  border: 2px solid rgb(227, 12, 12);
+  display: inline-block;
+  vertical-align: top;
+}
+
+.left {
+  width: 300px;
+  background-color: gray;
+}
+
+.right {
+  width: 600px;
+  height: 500px;
+  background-image: url("https://media.istockphoto.com/id/1081381238/photo/african-american-man-pointing-aside-at-copy-space.jpg?s=612x612&w=0&k=20&c=L48BM61tOAe8b4AcmqbDy8GQxdkgHQJytz7PNq8WlGo=");
+  background-repeat: no-repeat;
+}
+.image {
+  /* border: 2px solid black; */
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.image img {
+  border-radius: 50%;
+}

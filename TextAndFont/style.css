@@ -1,0 +1,39 @@
+
+.box{
+    height: 500px;
+    border: 2px solid black;
+    padding-top: 10px;
+    font-size: 50px;
+    font-weight: 900;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    /* text-decoration: double red underline; */
+    text-transform: none;
+    /* text-shadow: 12px 12px 5px red; */
+    /* letter-spacing: 22px; */
+    word-spacing: 52px;
+    line-height: 100px;
+}
+.b{
+    color: red;
+    text-decoration: underline;
+}
+
+.box2{
+
+    margin: auto;
+    margin-top: 50px;
+    border: 2px solid red;
+    height: 500px;
+    width: 500px;
+    box-shadow: 12px 12px 12px 10px black;
+    /* background-color: red; */
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZLRoU9dzYF911vWJLyJz4fhSlVZe1z-MQCQ&s");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+
+    
+        
+}

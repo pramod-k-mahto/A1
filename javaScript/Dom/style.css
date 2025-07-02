@@ -1,0 +1,25 @@
+/* .box{
+    border: 2px solid black;
+    color: black;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#parent{
+
+
+border:2px solid  black;
+height:100px;
+width: 100px;
+
+} */
+
+#first{
+    background-color: black;
+    color: white;
+
+}
